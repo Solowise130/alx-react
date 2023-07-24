@@ -34,15 +34,6 @@ REQUIREMENTS
 
 *A README.md file at the root of the folder of the project is mandatory.
 
-
-TASKS
-
-0 -- Creates and run Webpack using a basic installation.
-
-1 -- Installing packages. https://intranet.alxswe.com/rltoken/fuAiFYn08OQLb7SM8cYdYA
-
-2 -- Creates a specific configuration for Webpack.
-
 3 -- Sets up a development server, Divides the code into modules, Improves development speed, and Improves bundles size using the following Requirements:
 
 *When running the dev server, your code should work on http://localhost:8564/.
