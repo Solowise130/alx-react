@@ -1,7 +1,7 @@
 React Redux Connectors and Providers
 
 
-Resources
+RESOURCES
 
 + Redux CreateStore - https://intranet.alxswe.com/rltoken/ikKKj2fd_SIrduP4NMRcfw
 
